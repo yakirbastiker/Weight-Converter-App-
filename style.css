@@ -1,0 +1,9 @@
+body {
+    margin-top: 70px;
+    background-color: #333;
+    color: white;
+}
+
+.none {
+    display: none;
+}
